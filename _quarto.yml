@@ -8,8 +8,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - blog/
-
+      - post1.qmd
+        text: Blog
+  page-footer: "© 2025 Your Name"
 format:
   html:
     theme: cosmo
