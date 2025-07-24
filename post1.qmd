@@ -1,0 +1,19 @@
+---
+title: "My First Blog Post"
+format: html
+date: 2025-07-24
+---
+
+# My First Blog Post
+
+Welcome to my blog!
+
+In this post, I’ll share what I’ve been working on recently, including how I built this website using [Quarto](https://quarto.org/).
+
+## Why Quarto?
+
+- Easy to write with Markdown
+- Renders beautiful, fast static sites
+- Great for blogs, documentation, or portfolios
+
+Stay tuned for more posts soon!
