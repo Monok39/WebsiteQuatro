@@ -1,0 +1,12 @@
+---
+title: "Welcome"
+format: html
+---
+
+# 👋 Hello!
+
+Welcome to my personal website.
+
+I'm a [your profession], passionate about [your interests].
+
+Feel free to explore my blog or learn more [about me](about.qmd).
