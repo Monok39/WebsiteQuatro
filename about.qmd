@@ -1,0 +1,20 @@
+---
+title: "About Me"
+format: html
+---
+
+# About Me
+
+I’m [Your Name], and I specialize in [your field or skills].
+
+## Background
+
+- 📍 Based in [City, Country]
+- 🎓 Education: [Degree or University]
+- 💼 Work: [Current Role or Projects]
+
+## Hobbies
+
+- Writing
+- Travel
+- Coding
